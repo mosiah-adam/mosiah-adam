@@ -19,3 +19,8 @@
   <img title="Java" align="center" alt="Java" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img title="CSS3" align="center" alt="CSS" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+</div>
+ 
+  ![Snake animation](https://github.com/mosiah-adam/mosiah-adam/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
