@@ -15,16 +15,15 @@
   <img title="HTML5" align="center" alt="HTML" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img title="CSS3" align="center" alt="CSS" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img title="JavaScript" align="center" alt="JavaScript" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img title="Node" align="center" alt="Node" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img title="Express" align="center" alt="Express" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img title="PHP" align="center" alt="PHP" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img title="Laravel" align="center" alt="Laravel" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+  <img title="Node" align="center" alt="Node" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img title="PHP" align="center" alt="PHP" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img title="Express" align="center" alt="Express" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img title="Csharp" align="center" alt="Csharp" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img title="Unity" align="center" alt="Unity" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
-</div>
   <img title="Java" align="center" alt="Java" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img title="Python" align="center" alt="Python" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
+</div>
 </div>
  
   ![Snake animation](https://github.com/mosiah-adam/mosiah-adam/blob/output/github-contribution-grid-snake.svg)
