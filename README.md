@@ -21,6 +21,8 @@
   <img title="Node" align="center" alt="Node" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img title="PHP" align="center" alt="PHP" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img title="Express" align="center" alt="Express" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img title="Csharp" align="center" alt="Csharp" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img title="Unity" align="center" alt="Unity" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
 </div>
 </div>
  
