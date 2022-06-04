@@ -8,8 +8,8 @@
 
 <div>
   <a href="https://github.com/akemi-adam"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mosiah-adam&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosiah-adam&layout=compact&langs_count=16&theme=jolly"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akemi-adam&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akemi-adam&layout=compact&langs_count=16&theme=jolly"/>
 </div>
 <div style="display: inline_block"><br>
   <img title="HTML5" align="center" alt="HTML" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,6 +26,6 @@
 </div>
 </div>
  
-  ![Snake animation](https://github.com/mosiah-adam/mosiah-adam/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/akemi-adam/akemi-adam/blob/output/github-contribution-grid-snake.svg)
  
 </div>
