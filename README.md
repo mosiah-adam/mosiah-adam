@@ -24,7 +24,7 @@
   <img title="Java" align="center" alt="Java" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img title="Python" align="center" alt="Python" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img title="MySQL" align="center" alt="MySQL" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img title="SQLite3" align="center" alt="SQLite3" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite3/sqlite3-original.svg">
+  <img title="SQLite" align="center" alt="SQLite" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
 </div>
  
   ![Snake animation](https://github.com/akemi-adam/akemi-adam/blob/output/github-contribution-grid-snake.svg)
