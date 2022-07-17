@@ -1,6 +1,6 @@
 # 🌎 Hello World!
 
-- ☕ I’m currently learning: Java
+- ☕ I’m currently learning: PHP and Node.js
 - 💬 Ask me about: I am 17 years old and I am taking my second year of Computer Science for the Internet at IFRN/CA
 - ⚡ Fun fact: I watched a Serbian movie without subtitles for 30 minutes thinking it was in portuguese
 
