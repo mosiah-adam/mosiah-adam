@@ -23,6 +23,7 @@
   <img title="Unity" align="center" alt="Unity" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
   <img title="Java" align="center" alt="Java" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img title="Python" align="center" alt="Python" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img title="MySQL" align="center" alt="MySQL" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 </div>
  
