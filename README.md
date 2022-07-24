@@ -18,9 +18,6 @@
   <img title="Laravel" align="center" alt="Laravel" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img title="Node" align="center" alt="Node" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img title="PHP" align="center" alt="PHP" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img title="Express" align="center" alt="Express" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img title="Csharp" align="center" alt="Csharp" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img title="Unity" align="center" alt="Unity" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
   <img title="Java" align="center" alt="Java" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img title="Python" align="center" alt="Python" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img title="MySQL" align="center" alt="MySQL" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
