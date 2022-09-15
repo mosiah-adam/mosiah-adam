@@ -25,6 +25,12 @@
   <img title="SQLite" align="center" alt="SQLite" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img title="MongoDB" align="center" alt="MongoDB" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
+
+#
+
+<div>
+   <a href="https://www.linkedin.com/in/mosiah-adam-492166228"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
  
   ![Snake animation](https://github.com/akemi-adam/akemi-adam/blob/output/github-contribution-grid-snake.svg)
  
