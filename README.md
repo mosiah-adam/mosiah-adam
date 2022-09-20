@@ -1,7 +1,7 @@
 # 🌎 Hello World!
 
 - ☕ I’m currently learning: Laravel, Express.js and React.js
-- 💬 Ask me about: I am 17 years old and I am taking my second year of Computer Science for the Internet at IFRN/CA
+- 💬 Ask me about: I am 17 years old and I am taking my third year of Computer Science for the Internet at IFRN/CA
 - ⚡ Fun fact: I watched a Serbian movie without subtitles for 30 minutes thinking it was in portuguese
 
 #
