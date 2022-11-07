@@ -18,12 +18,10 @@
   <img title="PHP" align="center" alt="PHP" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img title="Laravel" align="center" alt="Laravel" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img title="Node" align="center" alt="Node" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img title="Express" align="center" alt="Express" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img title="Java" align="center" alt="Java" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img title="Python" align="center" alt="Python" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img title="MySQL" align="center" alt="MySQL" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img title="SQLite" align="center" alt="SQLite" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-  <img title="MongoDB" align="center" alt="MongoDB" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
 
 #
