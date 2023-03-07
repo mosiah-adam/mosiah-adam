@@ -35,7 +35,7 @@
 
 <div>
    <a href="https://www.linkedin.com/in/mosiah-adam-492166228"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://akemi-adam.github.io/portfolio/"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brightgreen?style=for-the-badge" target="_blank"></a>
+  <a href="https://akemi-adam.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brightgreen?style=for-the-badge" target="_blank"></a>
 </div>
  
   ![Snake animation](https://github.com/akemi-adam/akemi-adam/blob/output/github-contribution-grid-snake.svg)
