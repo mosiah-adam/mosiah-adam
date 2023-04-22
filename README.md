@@ -1,6 +1,6 @@
 # 🌎 Hello World!
 
-- ☕ I’m currently learning: Django and React.js
+- ☕ I’m currently learning: Algorithms and data structures
 - 💬 Ask me about: I am 18 years old and I am taking my third year of Computer Science for the Internet at IFRN/CA
 - ⚡ Fun fact: I watched a Serbian movie without subtitles for 30 minutes thinking it was in portuguese
 
